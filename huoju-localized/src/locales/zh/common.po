@@ -1,0 +1,542 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-01-09 14:12-0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: zh\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+#: src/components/equipment/EditGearModal.tsx:942
+msgid ""
+"+10% Fire Damage\n"
+"+20 to Maximum Life\n"
+"+5% Attack Speed"
+msgstr ""
+"+10% 火焰伤害\n"
+"+20 最大生命值\n"
+"+5% 攻击速度"
+
+#: src/components/equipment/EditGearModal.tsx:735
+msgid "Base Stats (1 max)"
+msgstr "基底词缀 (1 max)"
+
+#: src/routes/builder/talents/$slot.tsx:408
+msgid "Tree"
+msgstr "天赋树"
+
+#: src/routes/index.tsx:417
+msgid "Create your first character build to get started"
+msgstr "创建您的第一个角色流派以开始使用"
+
+#: src/components/equipment/EditGearModal.tsx:949
+msgid "Enter raw affix text, one per line. Use this for affixes not available in the dropdowns above."
+msgstr "输入原始词缀文本，每行一个。用于下拉菜单中不可用的词缀。"
+
+#: src/components/equipment/EditGearModal.tsx:937
+msgid "Custom Affixes"
+msgstr "自定义词缀"
+
+#: src/routes/index.tsx:167
+msgid "Rename"
+msgstr "重命名"
+
+#: src/components/equipment/VoraxGearModule.tsx:685
+msgid "Vorax Limb"
+msgstr "魔犬肢体"
+
+#: src/routes/index.tsx:390
+msgid "Create New"
+msgstr "新建"
+
+#: src/routes/builder/equipment.tsx:142
+msgid "Craft New Item"
+msgstr "制作新物品"
+
+#: src/routes/builder/equipment.tsx:226
+msgid "No items in inventory. Craft items above to add them here."
+msgstr "库存中没有物品。在上方制作物品以添加到此处。"
+
+#: src/components/equipment/EditGearModal.tsx:976
+#: src/components/equipment/LegendaryGearModule.tsx:400
+#: src/components/equipment/VoraxGearModule.tsx:769
+msgid "Save to Inventory"
+msgstr "保存到库存"
+
+#. js-lingui-explicit-id
+#: src/routes/builder/skills.tsx:81
+msgid "Active Skills"
+msgstr "主动技能"
+
+#. js-lingui-explicit-id
+#: src/components/equipment/LegendaryGearModule.tsx:299
+msgid "Add Legendary"
+msgstr "添加传奇"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:4
+#: src/data/translate/equipment-types.ts:5
+msgid "Belt"
+msgstr "腰带"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:6
+msgid "Boots"
+msgstr "靴子"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:7
+msgid "Boots (DEX)"
+msgstr "鞋子 (敏捷)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:8
+msgid "Boots (INT)"
+msgstr "鞋子 (智力)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:9
+msgid "Boots (STR)"
+msgstr "鞋子 (力量)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:10
+msgid "Bow"
+msgstr "弓"
+
+#. js-lingui-explicit-id
+#: src/data/translate/translate-tab.ts:11
+msgid "Calculations"
+msgstr "计算"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:11
+msgid "Cane"
+msgstr "手杖"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:12
+msgid "Chest"
+msgstr "胸甲"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:13
+msgid "Chest Armor (DEX)"
+msgstr "胸甲 (敏捷)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:14
+msgid "Chest Armor (INT)"
+msgstr "胸甲 (智力)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:15
+msgid "Chest Armor (STR)"
+msgstr "胸甲 (力量)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:16
+msgid "Claw"
+msgstr "爪"
+
+#. js-lingui-explicit-id
+#: src/data/translate/translate-tab.ts:10
+msgid "Configuration"
+msgstr "配置"
+
+#. js-lingui-explicit-id
+#: src/components/talents/CoreTalentSelector.tsx:60
+msgid "Core Talent 1"
+msgstr "核心天赋 1"
+
+#. js-lingui-explicit-id
+#: src/components/talents/CoreTalentSelector.tsx:67
+msgid "Core Talent 2"
+msgstr "核心天赋 2"
+
+#. js-lingui-explicit-id
+#: src/components/equipment/EditGearModal.tsx:698
+msgid "Craft New Item"
+msgstr "制作新物品"
+
+#. js-lingui-explicit-id
+#: src/components/equipment/VoraxGearModule.tsx:677
+msgid "Craft Vorax Gear"
+msgstr "制作魔犬装备"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:17
+msgid "Crossbow"
+msgstr "弩"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:18
+msgid "Cudgel"
+msgstr "武杖"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:19
+msgid "Dagger"
+msgstr "匕首"
+
+#: src/routes/index.tsx:426
+msgid "Create New Build"
+msgstr "创建新流派"
+
+#. js-lingui-explicit-id
+#: src/data/translate/translate-tab.ts:9
+msgid "Divinity Slate"
+msgstr "神格石板"
+
+#: src/routes/index.tsx:384
+msgid "Import Build"
+msgstr "导入流派"
+
+#. js-lingui-explicit-id
+#: src/components/equipment/EditGearModal.tsx:699
+msgid "Edit {equipmentType}"
+msgstr "编辑 {equipmentType}"
+
+#. js-lingui-explicit-id
+#: src/data/translate/translate-tab.ts:4
+msgid "Equipment"
+msgstr "装备"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:20
+msgid "Fire Cannon"
+msgstr "火炮"
+
+#: src/components/equipment/EditGearModal.tsx:829
+msgid "Tower Sequence (1 max)"
+msgstr "高塔词缀 (1 max)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:21
+msgid "Gloves"
+msgstr "手套"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:22
+msgid "Gloves (DEX)"
+msgstr "手套 (敏捷)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:23
+msgid "Gloves (INT)"
+msgstr "手套 (智力)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:24
+msgid "Gloves (STR)"
+msgstr "手套 (力量)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:25
+msgid "Helmet"
+msgstr "头盔"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:26
+msgid "Helmet (DEX)"
+msgstr "头盔 (敏捷)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:27
+msgid "Helmet (INT)"
+msgstr "头盔 (智力)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:28
+msgid "Helmet (STR)"
+msgstr "头盔 (力量)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/translate-tab.ts:7
+msgid "Hero"
+msgstr "英雄"
+
+#: src/routes/index.tsx:414
+msgid "No builds yet"
+msgstr "暂无流派"
+
+#: src/routes/index.tsx:358
+msgid "The build code in the URL was invalid or could not be imported."
+msgstr "URL中的流派代码无效或无法导入。"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:29
+msgid "Left Ring"
+msgstr "左戒指"
+
+#. js-lingui-explicit-id
+#: src/components/talents/TalentNodeDisplay.tsx:84
+msgid "Legendary Talent"
+msgstr "传奇天赋"
+
+#. placeholder {0}: formatDate(save.createdAt)
+#: src/routes/index.tsx:119
+msgid "Created: {0}"
+msgstr "创建时间：{0}"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:30
+msgid "Main Hand"
+msgstr "主手"
+
+#. js-lingui-explicit-id
+#: src/components/talents/TalentNodeDisplay.tsx:83
+msgid "Medium Talent"
+msgstr "中型天赋"
+
+#. js-lingui-explicit-id
+#: src/components/talents/TalentNodeDisplay.tsx:81
+msgid "Micro Talent"
+msgstr "微型天赋"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:31
+msgid "Musket"
+msgstr "火枪"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:32
+msgid "Neck"
+msgstr "项链"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:33
+msgid "Necklace"
+msgstr "项链"
+
+#: src/components/equipment/EditGearModal.tsx:785
+msgid "Base Affixes (2 max)"
+msgstr "基础词缀 (2 max)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:34
+msgid "Off Hand"
+msgstr "副手"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:35
+msgid "One-Handed Axe"
+msgstr "单手斧"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:36
+msgid "One-Handed Hammer"
+msgstr "单手锤"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:37
+msgid "One-Handed Sword"
+msgstr "单手剑"
+
+#. js-lingui-explicit-id
+#: src/data/translate/translate-tab.ts:8
+msgid "Pactspirit"
+msgstr "契灵"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:38
+msgid "Pistol"
+msgstr "手枪"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:39
+msgid "Right Ring"
+msgstr "右戒指"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:40
+msgid "Ring"
+msgstr "戒指"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:41
+msgid "Rod"
+msgstr "灵杖"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:42
+msgid "Scepter"
+msgstr "魔杖"
+
+#. js-lingui-explicit-id
+#: src/components/equipment/EditGearModal.tsx:723
+msgid "Select equipment type..."
+msgstr "选择装备类型..."
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:43
+msgid "Shield (DEX)"
+msgstr "盾牌 (敏捷)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:44
+msgid "Shield (INT)"
+msgstr "盾牌 (智力)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:45
+msgid "Shield (STR)"
+msgstr "盾牌 (力量)"
+
+#. js-lingui-explicit-id
+#: src/data/translate/translate-tab.ts:6
+msgid "Skills"
+msgstr "技能"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:46
+msgid "Spirit Ring"
+msgstr "灵戒"
+
+#. js-lingui-explicit-id
+#: src/data/translate/translate-tab.ts:5
+msgid "Talents"
+msgstr "天赋"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:47
+msgid "Tin Staff"
+msgstr "锡杖"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:48
+msgid "Two-Handed Axe"
+msgstr "双手斧"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:49
+msgid "Two-Handed Hammer"
+msgstr "双手锤"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:50
+msgid "Two-Handed Sword"
+msgstr "双手剑"
+
+#: src/routes/index.tsx:377
+msgid "My Builds"
+msgstr "我的配装"
+
+#: src/routes/builder/equipment.tsx:120
+msgid "Equipment Slots"
+msgstr "装备槽位"
+
+#. js-lingui-explicit-id
+#: src/data/translate/equipment-types.ts:51
+msgid "Wand"
+msgstr "法杖"
+
+#. placeholder {0}: formatDate(save.updatedAt)
+#: src/routes/index.tsx:123
+msgid "Updated: {0}"
+msgstr "更新时间: {0}"
+
+#: src/components/equipment/EditGearModal.tsx:717
+msgid "Equipment Type"
+msgstr "装备类型"
+
+#: src/routes/builder/talents/$slot.tsx:363
+msgid "Tree Slot"
+msgstr "天赋树槽位"
+
+#: src/components/equipment/EditGearModal.tsx:961
+msgid "Select an equipment type to begin crafting"
+msgstr "选择一个装备类型以开始制作"
+
+#: src/components/calculations/SkillSelector.tsx:45
+msgid "Active Skill"
+msgstr "主动技能"
+
+#: src/routes/builder/equipment.tsx:179
+msgid "Inventory"
+msgstr "库存"
+
+#: src/routes/index.tsx:145
+#: src/routes/index.tsx:179
+msgid "Delete"
+msgstr "删除"
+
+#: src/components/equipment/EditGearModal.tsx:893
+#: src/components/equipment/VoraxGearModule.tsx:720
+msgid "Prefixes (3 max)"
+msgstr "前缀 (3 max)"
+
+#: src/components/equipment/EditGearModal.tsx:968
+#: src/components/equipment/LegendaryGearModule.tsx:393
+#: src/components/equipment/VoraxGearModule.tsx:762
+#: src/routes/index.tsx:108
+#: src/routes/index.tsx:151
+msgid "Cancel"
+msgstr "取消"
+
+#: src/components/equipment/VoraxGearModule.tsx:700
+msgid "Base Affix"
+msgstr "基底词缀"
+
+#: src/components/equipment/EditGearModal.tsx:849
+msgid "Blending (1 max)"
+msgstr "调香词缀 (1 max)"
+
+#: src/components/talents/PrismSection.tsx:66
+msgid "Prisms"
+msgstr "棱镜"
+
+#: src/routes/index.tsx:173
+msgid "Copy"
+msgstr "复制"
+
+#: src/routes/builder/equipment.tsx:180
+msgid "items"
+msgstr "物品"
+
+#: src/components/equipment/EditGearModal.tsx:915
+#: src/components/equipment/VoraxGearModule.tsx:738
+msgid "Suffixes (3 max)"
+msgstr "后缀 (3 max)"
+
+#: src/components/equipment/EditGearModal.tsx:809
+msgid "Sweet Dream Affix (1 max)"
+msgstr "美梦词缀 (1 max)"
+
+#: src/components/equipment/VoraxGearModule.tsx:755
+msgid "Select a vorax limb to configure"
+msgstr "选择魔犬肢体进行配置"
+
+#: src/components/talents/CoreTalentSelector.tsx:90
+#: src/components/talents/CoreTalentSelector.tsx:102
+msgid "Core Talents"
+msgstr "核心天赋"
+
+#. placeholder {0}: save.name
+#: src/routes/index.tsx:135
+msgid "Are you sure you want to delete \"{0}\"?"
+msgstr "您确定要删除“{0}”吗？"
+
+#: src/components/equipment/LegendaryGearModule.tsx:307
+msgid "Select Legendary"
+msgstr "选择一个传奇物品"
+
+#: src/components/equipment/EditGearModal.tsx:978
+#: src/routes/index.tsx:102
+msgid "Save"
+msgstr "保存"
+
+#: src/components/equipment/EditGearModal.tsx:772
+msgid "Clear"
+msgstr "清除"
+
+#: src/routes/index.tsx:355
+msgid "Import Failed"
+msgstr "导入失败"
